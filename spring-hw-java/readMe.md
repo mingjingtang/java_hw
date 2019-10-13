@@ -1,7 +1,7 @@
 
 # Java Inheritance I
 
-![alt text](/img/01.png)
+![alt text](spring-hw-java/img/01.png)
 
 # Java Inheritance II
 ![alt text](/img/02.png)
